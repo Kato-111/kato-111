@@ -2,13 +2,11 @@
   <h1>Hi, I'm Kato!</h1>
   <h3>Frontend-Focused Full-Stack Developer</h3>
   
-  <p>
-      <a href="https://www.credly.com/badges/941b9817-30e7-43f2-accf-d68633d7251f/public_url"><img src="https://images.credly.com/size/500x500/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="100" alt="Google Cybersecurity Certificate" /></a>
-    <a href="https://holopin.io/@kato111"><img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="100" alt="Holopin Level 2" /></a>
-
-    <a href="https://holopin.io/@kato111"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="100" alt="Holopin Badge" /></a>
-    
-  </p>
+<p>
+  <a href="https://www.credly.com/badges/941b9817-30e7-43f2-accf-d68633d7251f/public_url"><img src="https://images.credly.com/size/500x500/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="100" alt="Google Cybersecurity Certificate" /></a>
+  <a href="https://holopin.io/@kato111"><img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="100" alt="Holopin Level 2" /></a>
+  <a href="https://holopin.io/@kato111"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="100" alt="Holopin Badge" /></a>
+</p>
 
   <p>
     <a href="https://www.linkedin.com/in/gundsambuu-ganzil-a13320284"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
