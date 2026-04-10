@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm Kato!</h1>
-  <h3>Frontend-Focused Full-Stack Developer</h3>
+  <h1>Hi, I'm Kato!👋</h1>
+  <h3>Frontend Focused Full-Stack Developer</h3>
   
 <p>
   <a href="https://www.credly.com/badges/941b9817-30e7-43f2-accf-d68633d7251f/public_url"><img src="https://images.credly.com/size/500x500/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="100" alt="Google Cybersecurity Certificate" /></a>
@@ -17,7 +17,18 @@
 
 ---
 
-### Some of the technologies I use
+### 👨‍💻 About Me
+
+I am a frontend focused full-stack developer currently studying in Sydney, with over a year and a half of professional experience contributing to open-source projects.
+
+- 📚 Journey: Self-taught programmer for 5 years
+- 🐧 Daily driver: Pop!\_OS
+- ⌨️ Small hobby: Building and customizing mechanical keyboards
+- 🏓 Downtime: Playing ping pong
+
+---
+
+### 🛠️ Some of the technologies I use
 
 <table>
   <tr>
@@ -44,20 +55,23 @@
 
 ---
 
-### Contribution
+### 🚀 Contribution
 
-<div align=center><img src="https://github.com/erxes/erxes/assets/1748857/53a70732-7385-475d-9cb5-efd0ec801db5" alt="erxes logo" width="20%" />
-<br>
-<p align="center">Experience Operating System (XOS) that unifies marketing, sales, operations, and support — run your core business seamlessly while replacing HubSpot, Zendesk, Linear, Wix and more.</p>
-</div>
 <div align="center">
-<a href="https://github.com/erxes/erxes">
-  <img src="https://img.shields.io/github/stars/erxes/erxes?style=flat-square&color=success" alt="GitHub stars" />
-  </a >
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Apollo%20Client-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" alt="Apollo Client" />
-  <img src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-</div>
+  <a href="https://github.com/erxes/erxes">
+    <img src="https://github.com/erxes/erxes/assets/1748857/53a70732-7385-475d-9cb5-efd0ec801db5" alt="erxes logo" width="180" /> 
+  </a>
+  <br><br>
 
-### Core development team member
-<p><em>Part of the small core frontend team for the v3.0 release. Over the course of a year, we executed a complete frontend rewrite and rolled out major structural changes to the backend.</em></p>
+  <p>Experience Operating System (XOS) that unifies marketing, sales, operations, and support — run your core business seamlessly while replacing HubSpot, Zendesk, Linear, Wix and more.</p>
+
+  <p>
+    <a href="https://github.com/erxes/erxes"><img src="https://img.shields.io/github/stars/erxes/erxes?style=flat-square&color=2ea44f" alt="GitHub stars" /></a>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/-Apollo%20Client-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" alt="Apollo Client" />
+    <img src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  </p>
+
+  <h4>Core development team member</h4>
+  <p><em>Part of a small core frontend team for the v3.0 release. Over the course of a year, we executed a complete frontend rewrite and rolled out major structural changes to the backend.</em></p>
+</div>
