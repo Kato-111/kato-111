@@ -17,14 +17,11 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-I am a frontend focused full-stack developer currently studying in Sydney, with over a year and a half of professional experience contributing to open-source projects.
+I am a frontend focused full-stack developer studying in Sydney. Most of my work sits around building product interfaces, improving developer experience, and contributing to open-source projects.
 
-- 📚 Journey: Self-taught programmer for 5 years
-- 🐧 Daily driver: Pop!\_OS
-- ⌨️ Small hobby: Building and customizing mechanical keyboards
-- 🏓 Downtime: Playing ping pong
+Outside of that, I like building and customizing mechanical keyboards, playing ping pong, and tweaking my setup. I use Arch btw.
 
 ---
 
